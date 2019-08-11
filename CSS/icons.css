@@ -1,0 +1,26 @@
+/* Style the icons section*/
+.icons {
+position:absolute;
+background-color: #EAAA00;
+height:500px;
+width: 100%;
+}
+
+.icons img {
+  height:200px;
+  width:150px;
+  margin-top:150px;
+}
+
+#img1 {
+  margin-left:120px;
+}
+
+#img2 {
+  margin-left:250px;
+}
+
+#img3 {
+  margin-left:250px;
+}
+
